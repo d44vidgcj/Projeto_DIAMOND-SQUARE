@@ -1,6 +1,29 @@
+# Build outputs
 *.exe
 *.o
 *.out
+*.so
+*.a
 build/
+dist/
+bin/
+
+# IDEs
 .vscode/
+.idea/
+*.swp
+*.swo
+
+# System
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Arquivos de dados temporários
+*.ppm
+*.png
+*.jpg
+output/
