@@ -2,7 +2,7 @@
 
 ## Sobre Este Projeto
 
-Este projeto representa minha primeira implementação completa em programação.  Mais do que código, é a materialização de uma jornada de aprendizado  desafiante e transformadora. Cada linha reflete horas de estudo, tentativa e erro, e finalmente compreensão.
+Este projeto representa minha primeira implementação completa em programação. 
 
 ## Descrição do Projeto
 
